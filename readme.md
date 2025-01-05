@@ -23,20 +23,6 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 - 🛩️ Exploring drone technologies with camera control and VR integration.  
 - 🖥️ Sharing my programming journey and projects on [akash.skytup.com](https://akash.skytup.com).  
 
----
-
-## 🌟 **Featured Projects**
-### 🔥 [Love Calculator App](https://akash.skytup.com/lovecalculator)  
-A fun, responsive, and production-level love calculator app with bias-based algorithms, animation overlays, and backend validation.
-
-### 🛠️ [New Year Participation Page](https://akash.skytup.com/newyear2025)  
-A dynamic participation platform with OTP verification, user-friendly animations, and a responsive design.
-
-### 🚀 Arduino Hackathon Project  
-An advanced IoT solution combining Bluetooth, ultrasonic sensors, and a custom Android app.
-
----
-
 ## 💡 **Achievements**
 - Shortlisted as a Python Developer.  
 - Founder of [Skytup](https://akash.skytup.com), a company dedicated to innovative tech solutions.  
