@@ -35,7 +35,7 @@ Hi there! I'm **Akash Vishwakarma**, a passionate programmer and a dedicated dev
 - 📘 GeeksforGeeks: [My Profile](https://www.geeksforgeeks.org/user/akash12code/)  
 - 📺 YouTube: [Developer Akash](https://www.youtube.com/@DeveloperAkash)  
 - 💻 GitHub: [github.com/skytup](https://github.com/skytup)
-- 📝 LinkedIn: [linkedin.com/in/akash222](linkedin.com/in/akash222)  
+- 📝 LinkedIn: [linkedin.com/in/akash222](https://linkedin.com/in/akash222)  
 
 ---
 
