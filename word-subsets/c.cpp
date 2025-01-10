@@ -3,26 +3,33 @@
 #include <string>
 using namespace std;
 
-int main()
-{
+unordered_map<char, int> returnIdentity(vector<string> &str) {
+    unordered_map<char, int> charFrequency;
 
-    vector<string> b = {"lo", "eo"};
-    vector<char> str;
-    // cout<<b[0][1];
+    for (const auto &word : str) {
+        unordered_map<char, int> tempFrequency;
+        for (const auto &v : word) {
+            tempFrequency[v]++;
+        }
 
-    for (int k = 0; k < b.size(); k++)
-    {
-        for (int l = 0; l < b[k].size(); l++)
-        {
-            char ch = b[k][l];
-            str.push_back(ch);
+        for (const auto &pair : tempFrequency) {
+            charFrequency[pair.first] = max(charFrequency[pair.first], pair.second);
         }
     }
 
-    for (auto x:str ){
+    return charFrequency;
+}
 
-        cout<<x<<endl;
-        /* code */
-    }
+int main()
+{
+
+    vector<string> b = {"l","e"};
     
+    auto ch = returnIdentity(b);
+
+    for (auto &x : ch)
+    {
+        cout << x.first << " " << x.second << endl;
+    }
+    // cout<<ch[1];
 }
