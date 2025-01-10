@@ -1,3 +1,7 @@
+// Akash Vishwakarma
+// Date - 10/01/2025
+// www.skytup.com
+
 #include<bits/stdc++.h>
 #include<vector>
 #include<string>
