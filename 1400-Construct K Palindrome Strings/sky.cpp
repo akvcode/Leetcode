@@ -1,5 +1,6 @@
 // Written by Akash Vishwakarma 
 // 12-01-2025
+// Visit www.skytup.com
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -35,7 +36,7 @@ public:
 int main()
 {
     // string data = "Akash";
-    string data = "Papa";
+    string data = "Kanak";  // 
     int k = 5;
     for (char &c : data)
     {
