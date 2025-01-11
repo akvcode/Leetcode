@@ -1,3 +1,5 @@
+// Written by Akash Vishwakarma 
+// 12-01-2025
 #include <bits/stdc++.h>
 using namespace std;
 
@@ -26,19 +28,6 @@ public:
     {
         int n = s.size();
         auto odd = oddFreq(s);
-        int c = 0; // Counter for odd frequencies
-        // for (auto x:characters)
-        // {
-        //     if (x.second%2==0)
-        //     {
-        //         c++;
-        //     }
-        // }
-        // if (c==characters.size())
-        // {
-        //     return true;
-        // }
-
         return odd<=k && k<= s.size();
     }
 };
