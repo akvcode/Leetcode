@@ -18,6 +18,7 @@ using namespace std;
 class Solution {
 public:
     int prefixCount(vector<string>& words, string pref) {
+        // Counting the size of array
         int n=words.size();
         int count = 0;
 
@@ -35,7 +36,7 @@ public:
 };
 
 int main(){
-vector<string> words = {"akash","rasham","akaram","ram","aker","akanksha","shivani"};
+vector<string> words = {"akash","rasham","akaram","ram","maker","akanksha","shivani"};
 Solution s;
 cout<<s.prefixCount(words,"ak");
 }
