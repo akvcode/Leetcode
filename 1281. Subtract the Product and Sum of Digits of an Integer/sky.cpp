@@ -16,7 +16,7 @@ public:
             product *= degit;
             temp = temp / 10;
         }
-        return ((sum > product) ? sum - product : product - sum);
+        return product-sum;
     }
 };
 
